@@ -1,0 +1,11 @@
+#teljes{
+    background-image: url(img/tab.jpg);
+    width: 100%;
+    height: 100px;
+    color: azure;
+}
+.card{
+        width: auto;
+        left: 25%;
+        top: 20%;
+}
