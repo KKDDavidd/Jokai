@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+* {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    background-color: #e3edff;
+}
+
+#text-content {
+    flex: 1;
+    padding-right: 20px;
+}
+.nav-link {
+    color: #000;
+}
+
+.nav-link:hover {
+    color: #000;
+}
+
+.ittvok {
+    color: #A1A1A1 !important}
+
+.navbar{
+    background-color: #d7e3fc !important; 
+}
+.city-description {
+    display: grid;
+    align-items: center;
+    margin-bottom: 5%;
+    margin-right: 5%;
+}
+.city-img {
+    float: right !important; 
+    margin-left: 20px;
+    margin-right: 5%;
+}
+.nav-link {
+    color: #000;
+}
+
+.nav-link:hover {
+    color: #000;
+}
+
+.ittvok {
+    color: #A1A1A1 !important
+}
+
+.navbar {
+    background-color: #d7e3fc !important;
+}
