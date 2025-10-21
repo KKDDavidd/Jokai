@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+* {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    background-color: #e3edff;
+}
+
+.accordion-item {
+    background-color: #e2eafc;
+    color: black;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #d7e3fc;
+    color: black;
+}
+
+.accordion-button {
+    background-color: #ccdbfd;
+    color: black;
+}
+
+.accordion {
+    margin-top: 25px;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.nav-link:hover {
+    color: #000;
+}
+
+.ittvok {
+    color: #A1A1A1 !important
+}
+
+.navbar {
+    background-color: #d7e3fc !important;
+}
+
+.carousel {
+    height: 75;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
